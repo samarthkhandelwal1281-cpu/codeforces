@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 99 | 18 |
+| 100 | 18 |
 
 ---
 
@@ -24,7 +24,7 @@
 - [games](#games) (4)
 - [geometry](#geometry) (2)
 - [greedy](#greedy) (46)
-- [implementation](#implementation) (22)
+- [implementation](#implementation) (23)
 - [math](#math) (50)
 - [number theory](#number-theory) (14)
 - [sortings](#sortings) (11)
@@ -211,6 +211,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
