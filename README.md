@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 121 | 19 |
+| 122 | 19 |
 
 ---
 
@@ -20,15 +20,15 @@
 - [constructive algorithms](#constructive-algorithms) (26)
 - [data structures](#data-structures) (4)
 - [dfs and similar](#dfs-and-similar) (1)
-- [dp](#dp) (6)
+- [dp](#dp) (7)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (54)
+- [greedy](#greedy) (55)
 - [implementation](#implementation) (27)
 - [math](#math) (59)
 - [number theory](#number-theory) (16)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (21)
+- [sortings](#sortings) (22)
 - [strings](#strings) (12)
 - [two pointers](#two-pointers) (10)
 
@@ -154,6 +154,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1883C | [Raspberries](https://codeforces.com/contest/1883/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1883/C%20-%20Raspberries/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
@@ -207,6 +208,7 @@
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
+| 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
@@ -371,6 +373,7 @@
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1725B | [Basketball Together](https://codeforces.com/contest/1725/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1725/B%20-%20Basketball%20Together/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
+| 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1791G1 | [Teleporters (Easy Version)](https://codeforces.com/contest/1791/problem/G1) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1791/G1%20-%20Teleporters%20(Easy%20Version)/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
