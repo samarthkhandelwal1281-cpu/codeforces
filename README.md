@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 136 | 20 |
+| 137 | 20 |
 
 ---
 
@@ -25,7 +25,7 @@
 - [geometry](#geometry) (4)
 - [greedy](#greedy) (64)
 - [implementation](#implementation) (29)
-- [math](#math) (65)
+- [math](#math) (66)
 - [number theory](#number-theory) (19)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (24)
@@ -355,6 +355,7 @@
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1866A | [Ambitious Kid](https://codeforces.com/contest/1866/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1866/A%20-%20Ambitious%20Kid/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
+| 1872D | [Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1872/D%20-%20Plus%20Minus%20Permutation/solution.cpp) |
 | 1873C | [Target Practice](https://codeforces.com/contest/1873/problem/C) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1873/C%20-%20Target%20Practice/solution.cpp) |
 | 1877A | [Goals of Victory](https://codeforces.com/contest/1877/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1877/A%20-%20Goals%20of%20Victory/solution.cpp) |
 | 1878C | [Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1878/C%20-%20Vasilije%20in%20Cacak/solution.cpp) |
