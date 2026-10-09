@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 139 | 20 |
+| 140 | 20 |
 
 ---
 
@@ -23,8 +23,8 @@
 - [dp](#dp) (9)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (66)
-- [implementation](#implementation) (30)
+- [greedy](#greedy) (67)
+- [implementation](#implementation) (31)
 - [math](#math) (67)
 - [number theory](#number-theory) (19)
 - [shortest paths](#shortest-paths) (1)
@@ -243,6 +243,7 @@
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1821B | [Sort the Subarray](https://codeforces.com/contest/1821/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1821/B%20-%20Sort%20the%20Subarray/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
+| 1832C | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1832/C%20-%20Contrast%20Value/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
@@ -292,6 +293,7 @@
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1814A | [Coins](https://codeforces.com/contest/1814/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1814/A%20-%20Coins/solution.cpp) |
 | 1829B | [Blank Space](https://codeforces.com/contest/1829/problem/B) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1829/B%20-%20Blank%20Space/solution.cpp) |
+| 1832C | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1832/C%20-%20Contrast%20Value/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
