@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 159 | 21 |
+| 161 | 21 |
 
 ---
 
@@ -14,19 +14,19 @@
 
 - [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (11)
-- [bitmasks](#bitmasks) (8)
+- [bitmasks](#bitmasks) (9)
 - [brute force](#brute-force) (35)
-- [combinatorics](#combinatorics) (5)
-- [constructive algorithms](#constructive-algorithms) (33)
+- [combinatorics](#combinatorics) (6)
+- [constructive algorithms](#constructive-algorithms) (34)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (9)
 - [games](#games) (5)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (77)
+- [greedy](#greedy) (78)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (36)
-- [math](#math) (74)
+- [implementation](#implementation) (37)
+- [math](#math) (76)
 - [number theory](#number-theory) (20)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
@@ -63,6 +63,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
@@ -116,6 +117,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1582B | [Luntik and Subsequences](https://codeforces.com/contest/1582/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1582/B%20-%20Luntik%20and%20Subsequences/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
@@ -129,6 +131,7 @@
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
+| 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1527B1 | [Palindrome Game (easy version)](https://codeforces.com/contest/1527/problem/B1) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1527/B1%20-%20Palindrome%20Game%20(easy%20version)/solution.cpp) |
 | 1536B | [Prinzessin der Verurteilung](https://codeforces.com/contest/1536/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1536/B%20-%20Prinzessin%20der%20Verurteilung/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
@@ -228,6 +231,7 @@
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1539C | [Stable Groups](https://codeforces.com/contest/1539/problem/C) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1539/C%20-%20Stable%20Groups/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
@@ -311,6 +315,7 @@
 |---|---------|------------|----------|
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
+| 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
 | 1506C | [Double-ended Strings](https://codeforces.com/contest/1506/problem/C) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1506/C%20-%20Double-ended%20Strings/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1512A | [Spy Detected!](https://codeforces.com/contest/1512/problem/A) | 800 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1512/A%20-%20Spy%20Detected!/solution.cpp) |
@@ -358,6 +363,8 @@
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
 | 1485A | [Add and Divide](https://codeforces.com/contest/1485/problem/A) | 1000 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1485/A%20-%20Add%20and%20Divide/solution.cpp) |
+| 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
+| 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
 | 1520D | [Same Differences](https://codeforces.com/contest/1520/problem/D) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1520/D%20-%20Same%20Differences/solution.cpp) |
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1541B | [Pleasant Pairs](https://codeforces.com/contest/1541/problem/B) | 1200 | [C++17 (GCC 7-32)](https://github.com/samarthkhandelwal1281-cpu/codeforces/blob/HEAD/1541/B%20-%20Pleasant%20Pairs/solution.cpp) |
